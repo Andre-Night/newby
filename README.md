@@ -1,2 +1,0 @@
-# newby
-my new repository
